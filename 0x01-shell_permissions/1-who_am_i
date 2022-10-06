@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami
+$_user" echo "User name ID (UID) : $_uid"

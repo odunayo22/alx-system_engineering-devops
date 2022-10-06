@@ -1,2 +1,2 @@
 #!/bin/bash
-$USER
+-G all groups
